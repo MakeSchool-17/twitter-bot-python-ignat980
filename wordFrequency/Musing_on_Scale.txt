@@ -1,0 +1,32 @@
+https://medium.com/@johnolilly/musing-on-scale-3f6d582c809b
+
+John Lilly
+9/29/2015
+
+Musing on Scale
+
+I’m doing a little work preparing for our Stanford class — I’m planning to talk next week a little bit about Mozilla and how we grew — so I’m looking back through board decks from 2006 & 2007.
+
+Kind of amazing to look back through them. Among other things, there was no mobile to speak of. Apple was mostly irrelevant — unless you wanted to listen to music on your iPod. Gmail & YouTube were still pretty new. Facebook was growing, but still early days. Twitter brand new. And if you wanted to go somewhere, you often rented a car. From Hertz.
+
+Anyway, what caught my eye this morning was a slide with Firefox’s daily user growth month to month:
+
+
+This was all still pretty new — before January 2006 we didn’t have great systems for even telling how many users there were worldwide.
+
+For us, in that time period, the ratio of monthly to daily users was about 3:1 — so by March 2007, we had maybe 90M users give or take.
+
+[Interesting to note that that ratio wasn’t something we started out thinking about — this was a time we kind of had to find our own way to understand that that was an important ratio.]
+
+Anyway, you can see that through that period, we were experiencing strong growth, and for a product that wasn’t viral. More tellingly, since this was at a time before the iPhone and real smartphone adoption, we were getting very robust daily usage and growth — in a way that’s qualitatively different than today’s mobile usage, which tends to be more often & more intimate.
+
+But what really caught my eye was a note on the slide that said this:
+
+Comscore estimates 741M Internet users worldwide in 12/07.
+Now, you can find other estimates at the time that are closer to a billion, but still, that’s an amazing change. From 750M laptop/desktop Internet users 8 years ago to 2.6B smartphone subscriptions today, with some people expecting 6.1B by 2020, just 5 years from now.
+
+It’s dizzying, how quickly computing and technology went from ~10% of the world using it for work (and leisure, although we know much less on the weekends) to 1/3 of the world walking around with the Internet in their pockets, connected all the time, everywhere.
+
+Having lived through it day-to-day, it’s easy to miss the changes — small increments, smooth(ish) change.
+
+But wowowow. Quantitatively and qualitatively — it’s just a profoundly different world we are living in now than even 8 years ago.
