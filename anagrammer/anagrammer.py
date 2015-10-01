@@ -7,7 +7,7 @@ anagrams = []
 
 if __name__ == "__main__":
     d = enchant.Dict('en_US')
-    for i in range(2, len(sys.argv[1])):
+    for i in range(1, len(sys.argv[1]) + 1):
         for word in itertools.permutations(sys.argv[1], i):
             r = ''.join(word)
             if d.check(r):
