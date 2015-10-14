@@ -3,7 +3,7 @@ import wordFrequency
 import sys
 
 
-class WeightedRandomizer:
+class WeightedRandomizer(object):
     def __init__(self, weights):
         self.__max = .0
         self.__weights = []
