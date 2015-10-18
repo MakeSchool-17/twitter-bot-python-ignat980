@@ -134,8 +134,17 @@ class HashBrownTable(object):
         for i in range(0, dataLength - 1):
             string += repr(data[i]) + ", "
         string += repr(data[dataLength - 1])
+        # [brian] instead of the above 4 lines you could also write:
+        string = ', '.join([repr(datum) for datum in data])
+        # In general, python tries very hard to prevent you from needing to
+        # keep track of which iteration you're currently on. If you find
+        # yourself doing a lot of -1 and +1 math with indices, it's likely
+        # an easier way exists.
+
         return 'HashTable{' + string + '}'
 
+    # [brian] Nice use of magic methods in this file, they're very pythonic and make your code so much
+    # easier to read and write.
     def __len__(self):
         return self.size
 
