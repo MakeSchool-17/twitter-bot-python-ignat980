@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/ignat/Documents/Programming/ios-ios-baby/Swiftastic/twitter-bot-python-ignat980/start"
+VIRTUAL_ENV="/Users/ignat/Documents/Programming/Python/twitter-bot-python-ignat980/anagrammer/start"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

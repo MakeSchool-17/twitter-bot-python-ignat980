@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/ignat/Documents/Programming/ios-ios-baby/Swiftastic/twitter-bot-python-ignat980/start"
+set -gx VIRTUAL_ENV "/Users/ignat/Documents/Programming/Python/twitter-bot-python-ignat980/anagrammer/start"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
